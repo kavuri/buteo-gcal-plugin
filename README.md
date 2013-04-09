@@ -1,4 +1,4 @@
 buteo-gcal-plugin
 =================
 
-Buteo google plugin
+Buteo google calendar plugin
